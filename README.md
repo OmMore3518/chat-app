@@ -82,6 +82,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## Contact
-
-For questions or support, please contact [suryawanshir102@gmail.com](mailto:suryawanshir102@gmail.com).
